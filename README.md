@@ -5,6 +5,12 @@ $ git config --global user.email "luopengxq@gmail.com"
 ## Get romote project
 <b>git clone</b> https://github.com/openluopworld/wqlhtml.git
 
+## 几条在根目录下使用的基本命令
+<b>git add --all</b>
+<b>git status</b>
+<b>git commit -m</b> "infomation about this commit"
+<b>git push</b>
+
 ## 常用命令
 linger@DESKTOP-26UPUD6 MINGW64 /
 $ pwd // 查看当前目录
