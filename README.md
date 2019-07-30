@@ -1,9 +1,8 @@
 ## Prepare local environment -- 配置操作，只用做一次
-$ git config --global user.name "openluopworld"
-$ git config --global user.email "luopengxq@gmail.com"
-
-## Get romote project
-<b>git clone</b> https://github.com/openluopworld/wqlhtml.git
+```sh
+$ git config --global user.name "your-name"
+$ git config --global user.email "xxx@gmail.com"
+```
 
 ## 常用的Git命令
 ```sh
@@ -42,5 +41,6 @@ $ mkdir doc  // make directory的意思，创建一个doc空目录
 ```
 
 ## 比较好的开源例子
+1. 一个简单的例子，https://www.cnblogs.com/lixiang1013/p/7535780.html
 
 ## 学习网址
